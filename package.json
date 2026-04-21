@@ -8,6 +8,7 @@
   "author": "Matic Zavadlal <matic.zavadlal@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "prepare": "tsc",
     "build": "tsc",
     "coverage": "codecov",
     "test": "jest"
